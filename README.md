@@ -10,3 +10,4 @@ Collection of data analysis and modeling projects using data collected from Kagg
 6. Prediction of Breast Cancer [Classification]
 7. Titanic Survival Analysis [Classification]
 8. Big Mart Sales Prediction [Regression]
+9. Flight Price Prediction [Regression]
