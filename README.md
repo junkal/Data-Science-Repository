@@ -11,3 +11,4 @@ Collection of data analysis and modeling projects using data collected from Kagg
 7. Titanic Survival Analysis [Classification]
 8. Big Mart Sales Prediction [Regression]
 9. Flight Price Prediction [Regression]
+10. Dry Bean class type prediction [Classification]
