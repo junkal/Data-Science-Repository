@@ -12,3 +12,4 @@ Collection of data analysis and modeling projects using data collected from Kagg
 8. Big Mart Sales Prediction [Regression]
 9. Flight Price Prediction [Regression]
 10. Dry Bean class type prediction [Classification]
+11. Space Titanic - Kaggle Competition [Classification]
