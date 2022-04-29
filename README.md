@@ -15,3 +15,4 @@ Collection of data analysis and modeling projects using data collected from Kagg
 11. Space Titanic - Kaggle Competition [Classification]
 12. House Price Prediction on AMES dataset - Kaggle Competition [Regression]
 13. Air passenger forecasting using Prophet [Time Series Analysis]
+14. Weather forecasting using Prophet [Time Series Analysis]
