@@ -13,3 +13,4 @@ Collection of data analysis and modeling projects using data collected from Kagg
 9. Flight Price Prediction [Regression]
 10. Dry Bean class type prediction [Classification]
 11. Space Titanic - Kaggle Competition [Classification]
+12. House Price Prediction on AMES dataset - Kaggle Competition [Regression]
